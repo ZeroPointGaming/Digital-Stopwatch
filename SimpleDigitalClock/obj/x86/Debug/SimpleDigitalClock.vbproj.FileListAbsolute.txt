@@ -1,0 +1,9 @@
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\SimpleDigitalClock.Form1.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\SimpleDigitalClock.Resources.resources
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\SimpleDigitalClock.vbproj.GenerateResource.Cache
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\DigitalStopwatch.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\DigitalStopwatch.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\bin\Debug\DigitalStopwatch.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\DigitalStopwatch.exe
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\DigitalStopwatch.xml
+C:\Users\Justin\documents\visual studio 2010\Projects\SimpleDigitalClock\SimpleDigitalClock\obj\x86\Debug\DigitalStopwatch.pdb
